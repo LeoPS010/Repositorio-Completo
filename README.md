@@ -1,2 +1,2 @@
 # Repositorio-Completo
-!(imagenes/platano.jpg)
+![](imagenes/platano.jpg)
